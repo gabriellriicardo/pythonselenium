@@ -1,4 +1,4 @@
-Bot Segue10 para Ganhar segudiores no Instagram versão beta.
+Bot Segue10 para Ganhar seguidores no Instagram versão beta.
 
 Escrito em Python 3.9.1
 
